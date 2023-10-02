@@ -1,0 +1,9 @@
+.card {
+  width: 290px;
+  box-shadow: 2px 8px 21px -5px #777777;
+  border-radius: 10px;
+}
+
+.cardName {
+  padding: 0;
+}
